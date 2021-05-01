@@ -1,6 +1,14 @@
-# Projeto-Estatistica
-Projeto de estatística do 2 período onde foi realizado uma mineração de dados da PRF, tratamento de dados e plotagem de graficos.
-Para conseguir realizar as plotagem dos gráficos é necessario utilização das planilhas da PRF que foram realizadas tratamento para deixar uniforme,a mesma possuia muitas diferenças entre elas, por exemplo o genero que em um era masculino em outra estava M maiusculo e em outra minusculo, para evitar erros foi realizado um tratamento para deixar uniforme sem que houvesse alterações em relação a seu conteudo.
+# Projeto de disciplina 2018.1
 
-O Link abaixo permite o download das planilhas caso queira fazer uso da informação.
-https://drive.google.com/file/d/1Ktf17NY5IsxprDqBjqvi5m7pYUABvADN/view?usp=sharing
+## Este projeto é focado em tratar e plotar gráficos a partir de planilhas de dados da policia rodoviária federal
+
+### Alguns gráficos plotados a partir dos dados retirados
+
+[Click aqui para acessar todos os gráficos](https://github.com/Erickson-Eng/Projeto-Estatistica/tree/master/GRAFICOS%20PROJETO/Gr%C3%A1ficos%20-%20Imagensv)
+
+#### Gráfico de feridos nas respectivas BRs em 2016
+![Gráfico de feridos](https://github.com/Erickson-Eng/Projeto-Estatistica/blob/master/GRAFICOS%20PROJETO/Gr%C3%A1ficos%20-%20Imagens/1.png) 
+
+#### Indice de acidentes por dia da semana
+![enter image description here](https://github.com/Erickson-Eng/Projeto-Estatistica/blob/master/GRAFICOS%20PROJETO/Gr%C3%A1ficos%20-%20Imagens/17.png)
+
